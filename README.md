@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/vittetsens/vittetsens-assets/main/identity/kioskloud/png/symbol/symbol-primary.png" width="50" height="50"><br>
+    <img src="https://raw.githubusercontent.com/vittetsens/vittetsens-assets/main/identity/kioskloud/png/icon/icon-primary.png" width="50" height="50"><br>
     Vittetsens Assets
 </h1>
 <p align="center">The Vittetsens public assets: identities, data, etc.</p>
