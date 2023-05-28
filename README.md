@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/freesm/freesm-assets/main/identity/kioskloud/png/icon/icon-primary.png" width="50" height="50"><br>
+    <img src="https://raw.githubusercontent.com/Vittetsens/Vittetsens-assets/main/identity/kioskloud/png/icon/icon-primary.png" width="50" height="50"><br>
     Freesm Assets
 </h1>
 <p align="center">The Freesm public shared assets: identities, data, etc.</p>
