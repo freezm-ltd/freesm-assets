@@ -5,7 +5,7 @@
 <p align="center">The Freesm public shared assets: identities, data, etc.</p>
 
 ## Overview
-This repository provides shared assets used by Freesm projects. Modifying assets may not be immediately reflected.
+This repository provides graphic assets used on Freesm projects. Modifying assets may not be reflected immediately.
 
 ## License
 The contents are freely available under the [MIT license](http://opensource.org/licenses/MIT).
